@@ -4,9 +4,7 @@ SET SERVEROUTPUT ON SIZE 30000;
 CREATE TABLE dokumenty (
     id NUMBER PRIMARY KEY,
     dokument clob
-)
-
-descr dokumenty;
+);
 
 -- Zadanie-2
 DECLARE
