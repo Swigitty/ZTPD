@@ -1,0 +1,9 @@
+Sprawdź co się stanie gdy uruchomisz 2 razy program tworzący indeks (nie usuwając
+plików indeksu ręcznie z dysku między uruchomieniami), tj. jak zachowa się
+wyszukiwanie? 
+
+Jeśli uruchomimy program tworzący indeks 2 razy to spowoduje to wyszukiwanie po obecnie i wcześniej utworzonych indeksach. 
+
+Jak zmieni się zawartość katalogu z plikami indeksu? 
+
+Numeracja indeksu się zwiększy
